@@ -1,0 +1,5 @@
+# Archivos .dia generados por dia para diagramas
+*.dia
+*.dia.autosave
+
+
